@@ -1,48 +1,65 @@
 # Zainab-Ansar-Gill
 
-<h1 align="center">🖤 Hey, I'm Zainab!</h1>
 
-<h3 align="center">🎀 Student Developer | Exploring the World of Code</h3>
+<h1 align="center">🖤 Zainab Ansar Gill</h1>
+
+<h3 align="center">🎀 Student Developer | Future Web Developer</h3>
 
 <p align="center">
-  💻 Learning, building, and turning ideas into reality.
+  <i>Turning curiosity into code, one project at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Learning-ff69b4?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Learning-9b59b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Learning-222222?style=for-the-badge&logo=javascript&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/Python-Learning-9b59b6?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
 ### 🖤 About Me
 
-- 🎓 A student exploring the world of technology.
-- 🌱 Currently learning **HTML, CSS, JavaScript & Python**.
-- 💡 Interested in web development and programming.
-- 🎮 I enjoy creating small programs and games.
-- ✨ Learning something new with every project.
+- 🎓 Student passionate about technology and programming.
+- 💻 Currently exploring web development.
+- 🌱 Learning HTML, CSS, JavaScript, and Python.
+- 🎮 Enjoy creating small programs and games.
+- ✨ Always curious to learn, experiment, and improve.
 
-### 💻 Tech Stack
+### 🎀 My Tech Journey
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-9b59b6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=ff69b4" />
-  <img src="https://img.shields.io/badge/Python-9b59b6?style=for-the-badge&logo=python&logoColor=white" />
+I'm at the beginning of my development journey, building my skills through practice and personal projects. My goal is to grow as a developer and turn creative ideas into useful digital experiences.
+
+### 🌷 What I'm Working Towards
+
+- 🌐 Building my first web projects.
+- 💡 Strengthening my programming fundamentals.
+- 🚀 Exploring both frontend and backend development.
+- 🖤 Creating projects that reflect my creativity.
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zainabansargill16&show_icons=true&theme=midnight-purple&hide_border=true&title_color=ff69b4&icon_color=bb86fc" alt="Zainab's GitHub stats" />
 </p>
 
-### 🌷 My Developer Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabansargill16&layout=compact&theme=midnight-purple&hide_border=true&title_color=ff69b4" alt="Most used languages" />
+</p>
 
-> "Small steps every day lead to big results."
+### 🖤 Find Me on GitHub
 
-I'm building my skills one project at a time and working towards becoming a web developer. 🚀
-
-### 🖤 Let's Connect
-
-<p>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ff69b4" />
+<p align="center">
+  <a href="https://github.com/zainabansargill16">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=ff69b4" />
   </a>
 </p>
 
----
+<p align="center">
+  <i>"Dream it. Learn it. Build it."</i> 🎀
+</p>
 
 <p align="center">
-  🎀 Thanks for visiting my little corner of GitHub! 🎀
+  🖤 Thanks for visiting my profile! 🖤
 </p>
+
